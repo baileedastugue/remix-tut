@@ -1,6 +1,8 @@
-# Welcome to Remix!
+# R-r-r-remix
 
-- [Remix Docs](https://remix.run/docs)
+A completed version of the [Remix tutorial](https://remix.run/docs/en/main/start/tutorial) available on the [Remix site](https://remix.run/). At the moment, it's a straight-up, line-by-line recreation of their tutorial for learnin' purposes. I may or may not use this as a general playground for all things Remix going forward. We'll see!
+
+- [Remix docs](https://remix.run/docs)
 
 ## Development
 
